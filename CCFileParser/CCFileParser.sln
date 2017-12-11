@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{B0B914
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCFileParserLibrary", "CCFileParserLibrary\CCFileParserLibrary.csproj", "{C04FB308-B6F4-4CFC-9F16-9179B22CAE22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCFileParserModels", "CCFileParserModels\CCFileParserModels.csproj", "{1E291C83-A724-475F-8CE1-AF722903E19A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,17 +17,12 @@ Global
 		{C04FB308-B6F4-4CFC-9F16-9179B22CAE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C04FB308-B6F4-4CFC-9F16-9179B22CAE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C04FB308-B6F4-4CFC-9F16-9179B22CAE22}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E291C83-A724-475F-8CE1-AF722903E19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E291C83-A724-475F-8CE1-AF722903E19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E291C83-A724-475F-8CE1-AF722903E19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E291C83-A724-475F-8CE1-AF722903E19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C04FB308-B6F4-4CFC-9F16-9179B22CAE22} = {B0B91428-10A2-4413-9BA2-A80C52D73AB5}
-		{1E291C83-A724-475F-8CE1-AF722903E19A} = {B0B91428-10A2-4413-9BA2-A80C52D73AB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {79C1F6A5-2C32-4979-A637-67EBC11EC678}
